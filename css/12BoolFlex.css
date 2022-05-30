@@ -265,12 +265,28 @@
     padding: 10px;
  }
 
+ .p-t-1{
+    padding-top: 10px;
+ }
+
  .p-tb-1{
      padding: 10px 0px;
  }
 
+
+
+ .p-tb-2{
+    padding: 20px;
+ }
+
  .p-3{
     padding: 30px;
+ }
+
+
+
+ .p-t-3{
+    padding-top: 30px;
  }
  
  .bg-active{
